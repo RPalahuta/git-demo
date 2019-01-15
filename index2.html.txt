@@ -1,8 +1,10 @@
 <html>
 <head>
     <title>Hello git</title>
+    <title>Hello git</title>
 </head>
 <body>
-    First git report version_final
+    First git repo
+	
 </body>
 </html>
