@@ -3,6 +3,6 @@
     <title>Hello git</title>
 </head>
 <body>
-    First git repo
+    First t repo
 </body>
 </html>
