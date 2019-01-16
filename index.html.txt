@@ -1,6 +1,7 @@
 <html>
 <head>
     <title>Hello git</title>
+    <title>I'm on the Github</title>
 </head>
 <body>
     First git report version_final
