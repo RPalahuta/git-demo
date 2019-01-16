@@ -2,6 +2,7 @@
 <head>
     <title>Hello git</title>
     <title>I'm on the Github</title>
+    <title>I'm on the Github_v2</title>
 </head>
 <body>
     First git report version_final
