@@ -4,6 +4,6 @@
     <title>I'm on the Github</title>
 </head>
 <body>
-    First git report version_final
+    First git report version_final with a conflict
 </body>
 </html>
